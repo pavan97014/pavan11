@@ -9,7 +9,7 @@ public class Employee
 	
 	private String name;
 	
-	publi Employee(){
+	public Employee(){
 	}
 	
 
