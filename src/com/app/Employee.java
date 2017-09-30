@@ -6,6 +6,9 @@ public class Employee
 	
 	private double sal;
 	
+	
+	private String name;
+	
 
 }
 
