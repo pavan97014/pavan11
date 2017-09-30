@@ -6,7 +6,7 @@ public class Employee
 	
 	private double sal;
 	
-	
+	private int deptno;
 	private String name;
 	
 	public Employee(){
