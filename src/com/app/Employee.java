@@ -9,7 +9,13 @@ public class Employee
 	private int deptno;
 	private String name;
 	
-	public Employee(){
+	public Employee()
+	{
+		
+	}
+	public void setEid(int eid)
+	{
+		this.eid=eid;
 	}
 	
 
